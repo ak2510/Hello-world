@@ -1,0 +1,23 @@
+{
+  "name": "Hello-world",
+  "version": "0.1.0",
+  "description": "Hello-world",
+  "main": "hello-world-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+	  "express": "*",
+	  "body-parser": "latest"
+  }
+}
